@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FindMajorityItemInArray/FindMajorityItem/bin/Debug/net8.0
+/FindMajorityItemInArray/FindMajorityItem/obj
+/FindMajorityItemInArray/FindMajorityItem/.vs/FindMajorityItem
+/FindMajorityItemInArray/.vs
+/.vs
